@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "zenithnn",
+      "lastname": "rajbhandari",
+      "age": 18,
+      "email": "zenithraj1@gmail.com",
+      "color": "rgba(33,150, 243, 0.35)",
+      "companyId": 1
+    },
+    {
+      "id": 2,
+      "firstname": "Rajijsd",
+      "lastname": "zenith2",
+      "age": 20,
+      "email": "zenithraj2@gmail.com",
+      "color": "rgba(156,39, 176, 0.35)",
+      "companyId": 1
+    },
+    {
+      "id": 3,
+      "firstname": "Rajesh",
+      "lastname": "zenith3",
+      "age": 11,
+      "email": "zenithraj3@gmail.com",
+      "color": "rgba(244,67, 54, 0.35)",
+      "companyId": 2
+    },
+    {
+      "id": 4,
+      "firstname": "Laxmanff",
+      "lastname": "zenith4",
+      "age": 14,
+      "email": "zenithraj4@gmail.com",
+      "color": "rgba(156,39, 176, 0.35)",
+      "companyId": 1
+    },
+    {
+      "id": 5,
+      "firstname": "zenith",
+      "lastname": "rajbhandari",
+      "age": 21,
+      "email": "zenithraj5@gmail.com",
+      "color": "rgba(233,30, 99, 0.35)",
+      "companyId": 2
+    },
+    {
+      "firstname": "zenith",
+      "lastname": "rajbhandari",
+      "companyId": 2,
+      "email": "zenithraj6@gmail.com",
+      "color": "rgba(156,39, 176, 0.35)",
+      "age": 40,
+      "id": 6
+    },
+    {
+      "firstname": "zenith",
+      "lastname": "rajb",
+      "email": "zenithraj7@gmail.com",
+      "color": "rgba(33,150, 243, 0.35)",
+      "companyId": 1,
+      "age": 47,
+      "id": 7
+    },
+    {
+      "firstname": "Sabin",
+      "lastname": "Rai",
+      "email": "sabin.rai@gmail.com",
+      "age": "36",
+      "color": "rgba(233,30, 99, 0.35)",
+      "companyId": 1,
+      "id": 8
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "google",
+      "description": "google it"
+    },
+    {
+      "id": 2,
+      "name": "apple",
+      "description": "apple it"
+    }
+  ]
+}
